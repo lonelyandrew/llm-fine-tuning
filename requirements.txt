@@ -1,0 +1,9 @@
+transformers==4.37.2
+pandas
+jupyterlab
+ipywidgets
+black
+ffmpeg
+ffmpeg-python
+pillow
+timm
